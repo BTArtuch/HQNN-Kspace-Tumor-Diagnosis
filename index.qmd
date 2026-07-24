@@ -1,0 +1,16 @@
+---
+title: "HQNN Kspace Tumor Diagnosis"
+author: "BTArtuch"
+format:
+  html:
+    toc: true
+    theme: cosmo
+  pdf:
+    pdf-engine: xelatex
+    header-includes: |
+      \usepackage{physics}
+      \usepackage{amsmath}
+      \usepackage{braket}
+---
+
+# Placeholder Text
