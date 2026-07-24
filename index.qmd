@@ -1,6 +1,6 @@
 ---
 title: "HQNN Kspace Tumor Diagnosis"
-author: "BTArtuch"
+author: "Brent Artuch"
 format:
   html:
     toc: true
